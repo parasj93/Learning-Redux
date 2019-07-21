@@ -1,0 +1,30 @@
+{
+	"type": "success",
+	"value": [{
+			"id": 1,
+			"Grocery": "Grocery",
+            "itemname": "bread",
+            "date": "24.12.2019"
+		}, {
+			"id": 543,
+			"Grocery": "Chuck Norris's programs can pass the Turing Test by staring at the interrogator.",
+            "itemname": "bread",
+            "date": "24.12.2019"
+		}, {
+			"id": 513,
+			"Grocery": "Chuck Norris does not code in cycles, he codes in strikes.",
+            "itemname": "bread",
+            "date": "24.12.2019"
+		}, {
+			"id": 463,
+			"Grocery": "Chuck Norris doesn't use web standards as the web will conform to him.",
+            "itemname": "bread",
+            "date": "24.12.2019"
+		}, {
+			"id": 486,
+			"Grocery": "Chuck Norris solved the Travelling Salesman problem in O(1) time. Here's the pseudo-code: Break salesman into N pieces. Kick each piece to a different city.",
+            "itemname": "bread",
+            "date": "24.12.2019"
+		}
+	]
+}
